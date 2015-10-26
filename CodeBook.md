@@ -26,3 +26,13 @@ Appropriately labels the data set with descriptive variable names.
 #5. Create a independent tidy data set with the average of each variable for each activity and each subject.
 From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
+#Variables
+
+used variables: 
+tran data:TrainX, TrainY, trainSubject
+test data:testX, testY, testSubject
+after transforming merged data: joinX, joinY, joinSubject
+tidy data: cleanedData
+result table: result
+ 
+
